@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color:Chartreuse;
+    padding: 8px
+}
+
+header a {
+    border-radius:8px;
+    background-color:white;
+    padding:6px;
+}
+
+main h1 {
+text-align:center;
+color:Navy;
+}
+
+footer {
+    background-color:orange;
+    padding:8px;
+    border-radius:8px;
+}
+
+footer p {
+    background-color:white;
+}
+
+nav a{
+    border-radius:8px;
+    background-color:navy;
+    color:white;
+    padding:8px;
+    display: inline-block;
+    margin:8px;
+}
+
+.one{
+background-color:black;
+border-radius:8px;
+color:white;
+padding:8px;
+}
+
+h2 {
+    color: navy;
+}
+
+.two{
+    border: 2px solid navy;
+    border-radius:8px;
+}
